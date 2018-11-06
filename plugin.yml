@@ -1,7 +1,7 @@
 name: SkyBlock
 description: A powerful core for SkyBlock servers
-author: GiantQuartz
-website: twitter.com/GiantQuartz
+author: BajanVlogs
+website: twitter.com/Kevin420J
 main: SkyBlock\SkyBlock
-version: 2.0.0
+version: 2.0.1
 api: [4.0.0]
